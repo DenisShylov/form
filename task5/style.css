@@ -8,5 +8,9 @@ input {
   margin: 8px;
 }
 .row {
-  margin: 8px;
+  margin: 0 0 8px 0;
+}
+.languages {
+  display: flex;
+  align-items: center;
 }
