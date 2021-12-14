@@ -4,6 +4,9 @@
 html {
   background-color: bisque;
 }
+body {
+  position: relative;
+}
 .page {
   position: absolute;
   left: 50%;
