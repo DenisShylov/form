@@ -9,8 +9,8 @@ html {
 }
 .login-form {
   position: absolute;
-  top: calc(50% + 180px);
-  left: calc(50% - 160px);
+  top: calc(50% + 165px);
+  left: calc(50% - 150px);
   display: inline-block;
   background-color: aqua;
   margin: auto;
