@@ -7,7 +7,6 @@
 input {
   margin: 8px;
 }
-.languages {
-  display: flex;
-  align-items: center;
+.row {
+  margin: 8px;
 }
